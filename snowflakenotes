@@ -2,3 +2,9 @@ Numbers of Snowflake
 
 The account usage share contains a database called SNOWFLAKE. The views are available for 12 months.
 
+
+@: This symbol is used for referencing named stages, both internal and external. 
+@%: Specifically used for referencing the internal stage associated with a table, where % represents the table name.
+@@: This symbol is used to reference external stages. 
+$: While not used to reference stages directly, this symbol is important in the context of file formats. e.g., $ file_format = (type = csv, field_delimiter = ',')).
+
