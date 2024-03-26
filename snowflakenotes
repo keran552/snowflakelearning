@@ -1,6 +1,10 @@
 Numbers of Snowflake
 
 The account usage share contains a database called SNOWFLAKE. The views are available for 12 months.
+query history maintained in the history tab  - 14 days
+Recomended compressed file size when loading data into Snowflake? 100-250 mb
+
+
 
 
 @: This symbol is used for referencing named stages, both internal and external. 
